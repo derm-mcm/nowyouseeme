@@ -1,0 +1,22 @@
+* Download course files
+
+DAY 2 PRECISE STIMULATION
+-------------------------
+* Run through ppc_stimuli.py
+* Demonstrate psychopy.org API
+
+
+DAY 2: TIMING OF STIMULATION
+-------------------
+Idea: Not just about timing but also about nice code!
+* Show slides
+* Run through ppc_timing.py and results!
+* Run through ppc_timer.py with exercises!
+
+
+DAY 2: TIMING OF INPUT
+----------------------
+* Input demo
+* Input recommendation: event for developing, iohub for experiment
+* Keyboard: iohub keyboard demo + iohub versus event
+

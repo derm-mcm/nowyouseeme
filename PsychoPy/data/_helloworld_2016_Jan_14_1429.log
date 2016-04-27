@@ -1,0 +1,9 @@
+102.0571 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x110316290>, name='window1', pos=[0, 0], screen=0, size=array([1280,  800]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+102.0571 	EXP 	window1: recordFrameIntervals = False
+102.2228 	EXP 	window1: recordFrameIntervals = True
+102.4060 	EXP 	window1: recordFrameIntervals = False
+102.4680 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'Hello World\n', units=u'norm', win=Window(...), wrapWidth=1)
+102.4681 	EXP 	window1: recordFrameIntervals = False
+102.4891 	EXP 	text: autoDraw = True
+102.4892 	EXP 	window1: recordFrameIntervals = False
+103.4568 	EXP 	window1: mouseVisible = True

@@ -1,0 +1,19 @@
+20.1779 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x1103f8290>, name='window1', pos=[0, 0], screen=0, size=array([1280,  800]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+20.1779 	EXP 	window1: recordFrameIntervals = False
+20.3435 	EXP 	window1: recordFrameIntervals = True
+20.3830 	WARNING 	t of last frame was 22.73ms (=1/44)
+20.5610 	EXP 	window1: recordFrameIntervals = False
+20.6068 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'red', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'Hello Emma\n', units=u'norm', win=Window(...), wrapWidth=1)
+20.6069 	EXP 	window1: recordFrameIntervals = False
+20.6226 	EXP 	text: autoDraw = True
+20.6227 	EXP 	window1: recordFrameIntervals = False
+21.6118 	EXP 	window1: mouseVisible = True
+12.6289 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([ 0.,  0.,  0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x110d93290>, name='window1', pos=[0, 0], screen=0, size=array([1280,  800]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.6290 	EXP 	window1: recordFrameIntervals = False
+12.7943 	EXP 	window1: recordFrameIntervals = True
+12.9780 	EXP 	window1: recordFrameIntervals = False
+13.0231 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'red', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,    0.,    0.]), text=u'Hello Emma\n', units=u'norm', win=Window(...), wrapWidth=1)
+13.0231 	EXP 	window1: recordFrameIntervals = False
+13.0364 	EXP 	text: autoDraw = True
+13.0365 	EXP 	window1: recordFrameIntervals = False
+14.0129 	EXP 	window1: mouseVisible = True

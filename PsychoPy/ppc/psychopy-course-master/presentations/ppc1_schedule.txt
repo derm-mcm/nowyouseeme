@@ -1,0 +1,12 @@
+DAY 1: INTRODUCTION
+-------------
+ * round-table presentation.
+ * motivational talk!
+ * create a folder for this course
+ * put all scripts in the folder
+ * USB / break / technical issues
+
+ 
+DAY 1: PYTHON
+--------------
+Just go through ppc1_python_intro.py :-)
