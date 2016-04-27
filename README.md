@@ -4,6 +4,7 @@ This project aims to develop a series of psychometric tests that will measure a 
 
 **To Do**
 
+#Experiment 1
 First Attempt at creating two stimuli side-by-side
 * Two stimuli together
 * Then have them turning on and off
@@ -13,5 +14,12 @@ First Attempt at creating two stimuli side-by-side
 * Stairwise increase in flicker speed
 * Randomize which side flickers
 * Record Results!
+
+# Other Experiments
+* Wagon wheel
+* Michotte Effect (Msetfi)
+* \alpha-wave frequency
+
+
 
 **Dermott McMorrough, 2016.**
