@@ -71,6 +71,7 @@ stim_shape2.draw()
 win.flip()
 event.waitKeys()
 
+# Try to combine these two sections. 
 #-------------------------------------------------------------------------------
 
 
